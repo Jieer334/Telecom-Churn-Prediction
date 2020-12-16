@@ -1,5 +1,6 @@
 # Telecom Churn Prediction
 
+## Abstract
 Customer churn has been an important topic in the telecom industry because it directly affects company’s profitability. Churn describes that customers stop using a company’s product or service during a certain time frame. This project aims to predict whether a telecom customer will churn so that telecom companies can take actions to retrain their customers. The specific models used are random forest, gradient boosting machine, logistic regression and KNearest Neighbors.
 
 ## Dataset 
