@@ -28,3 +28,7 @@ The telecom customer churn data was used here is originally provided by the IBM 
 - **Monthly Charges**: a customer’ monthly charge
 - **Total Charges**: a customer’s total charges
 - **Churn**: if a customer leave the company
+
+### If unbale to view the notebook in Github
+Please use the below link to view the notebook if you are receiving the 'Sorry, soemthing went wrong. Reload?' error message.
+https://nbviewer.jupyter.org/github/Jieer334/Telecom-Churn-Prediction/blob/main/Telecom%20Churn%20Prediction.ipynb
